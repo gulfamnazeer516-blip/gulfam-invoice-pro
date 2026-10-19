@@ -45,3 +45,14 @@ GitHub: https://github.com/gulfamnazeer516-blip
 ## License
 
 MIT License
+
+## Plugin Screenshots
+
+### Live Chat Widget
+![Smart Chat Widget](chat-widget.png)
+
+### Admin Dashboard
+![Lead Management Dashboard](admin-dashboard.png)
+
+### Download Plugin
+[Download v1.3.0](https://github.com/gulfamnazeer516-blip/gulfam-smart-chat/releases/tag/v1.3.0)
